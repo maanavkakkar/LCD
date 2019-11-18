@@ -10,9 +10,9 @@ void setup()
 void loop()
 {
   lcd.setCurser(1,0);
-  lcd.print("! Nishant.C !");
+  lcd.print("! MAANAV !");
   lcd.setCurser(1,1);
-  lcd.print("! nDragoneel !");
+  lcd.print("! KAKKAR !");
   delay(5000);
   lcd.clear();
 }
